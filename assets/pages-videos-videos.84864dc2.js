@@ -1,0 +1,1 @@
+import{o as e,c as s,w as t,i as a,d as o}from"./index-0a883e5a.js";import{_ as r}from"./_plugin-vue_export-helper.1b428a4d.js";const n=r({data:()=>({}),methods:{}},[["render",function(r,n,d,u,i,l){const p=a;return e(),s(p,null,{default:t((()=>[o(" 学习视频 ")])),_:1})}]]);export{n as default};
